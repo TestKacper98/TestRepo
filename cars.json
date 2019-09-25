@@ -1,0 +1,167 @@
+[
+    {
+      "model": "AUDI",
+      "price": 120000,
+      "mileage": 2000,
+      "engine": {
+        "type": "DIESEL",
+        "power": 210
+      },
+      "carBody": {
+        "color": "BLACK",
+        "type": "HATCHBACK",
+        "components": [
+          "ABS",
+          "AIR CONDITIONING"
+        ]
+      },
+      "wheel": {
+        "type": "SUMMER",
+        "model": "PIRELLI",
+        "size": 18
+      }
+    },
+    {
+      "model": "BMW",
+      "price": 25000,
+      "mileage": 2500,
+      "engine": {
+        "type": "DIESEL",
+        "power": 250
+      },
+      "carBody": {
+        "color": "BLACK",
+        "type": "SEDAN",
+        "components": [
+          "AIR CONDITIONING",
+          "BLUETOOTH",
+          "RADIO",
+          "GPS"
+        ]
+      },
+      "wheel": {
+        "type": "SUMMER",
+        "model": "PIRELLI",
+        "size": 21
+      }
+    },
+    {
+      "model": "PORSHE",
+      "price": 35000,
+      "mileage": 18000,
+      "engine": {
+        "type": "LPG",
+        "power": 100
+      },
+      "carBody": {
+        "color": "WHITE",
+        "type": "COMBI",
+        "components": [
+          "AIR CONDITIONING",
+          "BLUETOOTH",
+          "RADIO"
+        ]
+      },
+      "wheel": {
+        "type": "WINTER",
+        "model": "BELSHINA",
+        "size": 19
+      }
+    },
+    {
+      "model": "AUDI",
+      "price": 105000,
+      "mileage": 12600,
+      "engine": {
+        "type": "GASOLINE",
+        "power": 30
+      },
+      "carBody": {
+        "color": "RED",
+        "type": "HATCHBACK",
+        "components": [
+          "AIR CONDITIONING",
+          "BLUETOOTH",
+          "FIRE EXTINGUISHER",
+          "GPS",
+          "RADIO"
+        ]
+      },
+      "wheel": {
+        "type": "SUMMER",
+        "model": "BELSHINA",
+        "size": 23
+      }
+    },
+    {
+      "model": "REANULT",
+      "price": 190000,
+      "mileage": 1200,
+      "engine": {
+        "type": "LPG",
+        "power": 160
+      },
+      "carBody": {
+        "color": "BLUE",
+        "type": "COMBI",
+        "components": [
+          "AIR CONDITIONING",
+          "FIRE EXTINGUISHER",
+          "RADIO"
+        ]
+      },
+      "wheel": {
+        "type": "WINTER",
+        "model": "BRIDGESTONE",
+        "size": 23
+      }
+    },
+    {
+      "model": "MAZDA",
+      "price": 78000,
+      "mileage": 12800,
+      "engine": {
+        "type": "DIESEL",
+        "power": 123
+      },
+      "carBody": {
+        "color": "GREEN",
+        "type": "SEDAN",
+        "components": [
+          "GPS",
+          "BLUETOOTH",
+          "RADIO"
+        ]
+      },
+      "wheel": {
+        "type": "SUMMER",
+        "model": "BELSHINA",
+        "size": 23
+      }
+    },
+    {
+      "model": "BMW",
+      "price": 360000,
+      "mileage": 1000,
+      "engine": {
+        "type": "DIESEL",
+        "power": 300
+      },
+      "carBody": {
+        "color": "SILVER",
+        "type": "HATCHBACK",
+        "components": [
+          "AIR CONDITIONING",
+          "BLUETOOTH",
+          "RADIO",
+          "GPS",
+          "FIRE EXTINGUISHER"
+        ]
+      },
+      "wheel": {
+        "type": "SUMMER",
+        "model": "BRIDGESTONE",
+        "size": 21
+      }
+    }
+  ]
